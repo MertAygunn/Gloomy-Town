@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-Editor", "Assembly-CSharp-Editor.csproj", "{E1B9B039-3DEC-4B03-0583-4E11C7350691}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{C8AA8C39-FE18-D3F9-4437-E50D50F8DA29}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rokoko", "Rokoko.csproj", "{0BEB3603-7433-592B-0688-C5653C46AB64}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E1B9B039-3DEC-4B03-0583-4E11C7350691}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1B9B039-3DEC-4B03-0583-4E11C7350691}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1B9B039-3DEC-4B03-0583-4E11C7350691}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1B9B039-3DEC-4B03-0583-4E11C7350691}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8AA8C39-FE18-D3F9-4437-E50D50F8DA29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8AA8C39-FE18-D3F9-4437-E50D50F8DA29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8AA8C39-FE18-D3F9-4437-E50D50F8DA29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8AA8C39-FE18-D3F9-4437-E50D50F8DA29}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0BEB3603-7433-592B-0688-C5653C46AB64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BEB3603-7433-592B-0688-C5653C46AB64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BEB3603-7433-592B-0688-C5653C46AB64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BEB3603-7433-592B-0688-C5653C46AB64}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
